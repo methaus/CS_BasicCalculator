@@ -1,0 +1,15 @@
+C:\Users\Estudio3\Documents\GitHub\CS_BasicCalculator\bin\Debug\net6.0\CS_BasicCalculator.exe
+C:\Users\Estudio3\Documents\GitHub\CS_BasicCalculator\bin\Debug\net6.0\CS_BasicCalculator.deps.json
+C:\Users\Estudio3\Documents\GitHub\CS_BasicCalculator\bin\Debug\net6.0\CS_BasicCalculator.runtimeconfig.json
+C:\Users\Estudio3\Documents\GitHub\CS_BasicCalculator\bin\Debug\net6.0\CS_BasicCalculator.dll
+C:\Users\Estudio3\Documents\GitHub\CS_BasicCalculator\bin\Debug\net6.0\CS_BasicCalculator.pdb
+C:\Users\Estudio3\Documents\GitHub\CS_BasicCalculator\obj\Debug\net6.0\CS_BasicCalculator.csproj.AssemblyReference.cache
+C:\Users\Estudio3\Documents\GitHub\CS_BasicCalculator\obj\Debug\net6.0\CS_BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudio3\Documents\GitHub\CS_BasicCalculator\obj\Debug\net6.0\CS_BasicCalculator.AssemblyInfoInputs.cache
+C:\Users\Estudio3\Documents\GitHub\CS_BasicCalculator\obj\Debug\net6.0\CS_BasicCalculator.AssemblyInfo.cs
+C:\Users\Estudio3\Documents\GitHub\CS_BasicCalculator\obj\Debug\net6.0\CS_BasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Estudio3\Documents\GitHub\CS_BasicCalculator\obj\Debug\net6.0\CS_BasicCalculator.dll
+C:\Users\Estudio3\Documents\GitHub\CS_BasicCalculator\obj\Debug\net6.0\refint\CS_BasicCalculator.dll
+C:\Users\Estudio3\Documents\GitHub\CS_BasicCalculator\obj\Debug\net6.0\CS_BasicCalculator.pdb
+C:\Users\Estudio3\Documents\GitHub\CS_BasicCalculator\obj\Debug\net6.0\CS_BasicCalculator.genruntimeconfig.cache
+C:\Users\Estudio3\Documents\GitHub\CS_BasicCalculator\obj\Debug\net6.0\ref\CS_BasicCalculator.dll
